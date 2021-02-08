@@ -1,5 +1,7 @@
 ## Eye detection
 
+![alt text](https://github.com/aathlan/eye-detection/blob/main/Capture.PNG)
+
 This model has been trained with yolov5 to detect eyes on webcam. 
 
 You need torch 1.6.0 and torchvision 0.7.0 with Python 3.7.
